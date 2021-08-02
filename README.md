@@ -1,2 +1,2 @@
 # 185_todo_app
-A project created based for Launch School's 185 todo app which is about converting the previous app into a database-backed application
+A project created for Launch School's 185 todo app which is about converting the previously built Sinatra app into a database-backed application.
