@@ -7,3 +7,5 @@ gem "sinatra-contrib"
 gem "erubis"
 
 gem "pg"
+gem "puma"
+
